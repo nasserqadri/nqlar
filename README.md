@@ -6,7 +6,7 @@ Description
 Analyze corpora of texts (e.g., news media articles, speeches) to see trends in keyword usage, salience and context over time. 
 
 Features include: 
-- Easily import content from multiple sources into single dataframe object
+- Import content from multiple sources into single dataframe object
 - Text preprocessing (remove punctuation, lowercase, remove numbers, calculate date from M, D, Y fields)
 - Count keywords in each document
 - Determine presence and extent of frame (looks for a match in a list of keywords)
